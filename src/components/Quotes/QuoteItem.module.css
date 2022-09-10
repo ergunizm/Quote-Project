@@ -1,0 +1,23 @@
+.img {
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.detail {
+  margin-left: 2%;
+}
+
+.link {
+  display: flex;
+  flex-basis: auto;
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: #3c0080;
+  transform: scale(0.95);
+  transition: all 0.5s;
+}

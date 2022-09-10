@@ -1,0 +1,11 @@
+.quote {
+  flex: 0 0 30%;
+  display: flex;
+  margin-bottom: 50px;
+  margin-right: 3%;
+}
+
+.group {
+  display: flex;
+  flex-wrap: wrap;
+}
