@@ -1,5 +1,7 @@
 A react Quote project by Ergun Izmirlioglu
 
+Here's the demo app => quoteproject.netlify.app
+
 React v18, Redux v8, React-Router v6 is used in this project.
 
 
